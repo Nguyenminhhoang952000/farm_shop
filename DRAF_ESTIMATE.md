@@ -160,7 +160,7 @@
 | **Hóa đơn điện tử** | Xuất hóa đơn VAT | Tích hợp hóa đơn điện tử theo quy định | 0.6 ngày |
 | **Báo cáo thuế** | Tổng hợp cho khai thuế | Doanh thu chịu thuế, VAT đầu vào/ra | 0.6 ngày |
 
-### 🎯 **2.7 MARKETING & KHUYẾN MÃI** - *5 ngày*
+### 🎯 **2.7 MARKETING & KHUYẾN MÃI** - *4 ngày*
 
 | Chức năng | Mô tả chi tiết | Ví dụ thực tế | Estimate |
 |-----------|---------------|---------------|----------|
@@ -204,18 +204,18 @@
 |-----------|---------------|---------------|----------|
 | **Phân quyền chi tiết** | 6 loại user, quyền cụ thể | Admin: full quyền, Seller: chỉ sản phẩm mình | 2 ngày |
 
-### 📊 **4.4 ANALYTICS & BÁO CÁO** - *2.5 ngày*
+### 📊 **4.4 ANALYTICS & BÁO CÁO** - *3 ngày*
 
 | Chức năng | Mô tả chi tiết | Ví dụ thực tế | Estimate |
 |-----------|---------------|---------------|----------|
-| **Báo cáo chi tiết** | Export Excel, PDF | Báo cáo doanh thu, sản phẩm, khách hàng | 3 ngày |
+| **Báo cáo chi tiết** | Export Excel, PDF | Báo cáo doanh thu, sản phẩm, khách hàng | 1 ngày |
 | **Customer journey** | Hành trình khách hàng | Từ visit → add cart → purchase | 2 ngày |
 
 ---
 
 ## 🧪 **PHẦN 5: TESTING & BẢO ĐẢM CHẤT LƯỢNG**
 
-### 🔍 **5.1 TESTING TOÀN DIỆN** - *8 ngày*
+### 🔍 **5.1 TESTING TOÀN DIỆN** - *7 ngày*
 
 | Loại Test | Mô tả chi tiết | Ví dụ thực tế | Estimate |
 |-----------|---------------|---------------|----------|
@@ -226,7 +226,7 @@
 | **User Experience Testing** | Test với người dùng thật | 10 người thật sử dụng và feedback | 1 ngày |
 | **Browser Testing** | Test trên nhiều trình duyệt | Chrome, Safari, Firefox, Edge | 0.5 ngày |
 
-### 🐛 **5.2 BUG FIXING & OPTIMIZATION** - *7 ngày*
+### 🐛 **5.2 BUG FIXING & OPTIMIZATION** - *6 ngày*
 
 | Loại Công Việc | Mô tả chi tiết | Ví dụ thực tế | Estimate |
 |----------------|---------------|---------------|----------|
