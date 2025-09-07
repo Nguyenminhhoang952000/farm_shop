@@ -16,10 +16,9 @@
 
 ## Các Vai Trò
 - **Super Admin (Admin Tổng)**: Quyền truy cập toàn hệ thống, quản lý tất cả người dùng, vai trò và phân quyền.
-- **Admin (Người nhập hàng và bán hàng)**: Quản lý kho hàng, khách hàng, shipper và đơn hàng.
-- **Quản Lý Đơn Hàng**: Vai trò chuyên biệt cho các hoạt động quản lý đơn hàng.
-- **Người Bán/Chủ Cửa Hàng**: Quản lý cửa hàng riêng, sản phẩm và đơn hàng của mình.
-- **Shipper**: Quản lý các đơn giao hàng được phân công, cập nhật trạng thái giao hàng, tải lên bằng chứng và báo cáo giao hàng.
+- **Admin (Người nhập hàng)**: Quản lý kho hàng, khách hàng, shipper và đơn hàng.
+- **Người Bán/Chủ Cửa Hàng**: Quản lý cửa hàng riêng, sản phẩm và đơn hàng của mình, chuyên biệt cho các hoạt động quản lý đơn hàng.
+- **Admin Shipper**: Quản lý các shipper, quản lý các đơn giao hàng được phân công, cập nhật trạng thái giao hàng, tải lên bằng chứng và báo cáo giao hàng.
 - **Khách Hàng (Người mua)**: Truy cập các tính năng phía khách hàng, đặt hàng, theo dõi giao hàng.
 
 ---
